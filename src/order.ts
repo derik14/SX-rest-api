@@ -5,10 +5,10 @@ import { roundDownOddsToNearestStep } from "./utils";
 
 
 //User Details
-const TAKER_PRIVATE_KEY = "ec9a2ca474f08ad0903e1f33d25f32f366846e051c5874cb59d4120c465e3a37";
-export const TAKER_ADDRESS = "0x2356DCD73Cb7D11d5C081e170735D82610B40E63";
-const MAKER_ADDRESS = "0x27cC7A399e8fd2Dffd503528162e9C3810222e6F"
-export const MAKER_PRIVATE_KEY =  "4479ed34a36b2756e915a4c7efab9ceb491bdb67c00e519a44e2ca6032929dce";
+//const TAKER_PRIVATE_KEY = add taker key;
+export const TAKER_ADDRESS = add taker address;
+const MAKER_ADDRESS = add maker address;
+export const MAKER_PRIVATE_KEY =  add maker key;
 const TOKEN_TRANSFER_PROXY_ADDRESS = "0xD7cCD18d33d3EC2879A6DF8e82Ef81C8830c534F";
 const EIP712FillHasherAddress = "0xC8dbedb008deB9c870E871F7a470f847C67135E9";
 export const CHAIN_ID = 79479957;//647;
